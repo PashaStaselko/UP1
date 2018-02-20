@@ -1,0 +1,11 @@
+commit 0359faa19edf63f7a1e3df09be09fedc6a352540 (HEAD -> master)
+Author: Pasha <pasha.staselko@yandex.ru>
+Date:   Tue Feb 20 09:40:04 2018 +0300
+
+    add C:/UP1/task1/status.txt
+
+commit cceb82aae5830b590945382e5f3621c4b52a0de6
+Author: Pasha <pasha.staselko@yandex.ru>
+Date:   Tue Feb 20 02:54:05 2018 +0300
+
+    add .gitignore
